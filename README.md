@@ -12,7 +12,7 @@ here  i used [google cloudshell](https://shell.cloud.google.com/)
 ## Git Installation
 ```
 # clone the repo
-$ git clone https://github.com/thelinuxuser-choice/ip-tracker/
+$ git clone https://github.com/Piratekaz/ip-eye.git
 
 # change the working directory to Pwned
 $ cd ip-tracker
