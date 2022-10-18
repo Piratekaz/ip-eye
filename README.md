@@ -26,3 +26,4 @@ python3 ip-eye.py
 ## sponsor
 buy me a coffee
 <img src="ip-eye/IMG_20221018_232944_246.jpg">
+give to this - bc1qty9xc8t5t9lga7u9t0fz6hz9gjzwtd6x9r27z5
